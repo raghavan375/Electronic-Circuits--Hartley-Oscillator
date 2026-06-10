@@ -31,5 +31,4 @@ PC with LT Spice software
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/32b55b15-b1b0-49a6-bce2-ab968bcb7c14" />
 
 ## RESULT:
-<img width="1600" height="786" alt="WhatsApp Image 2026-06-10 at 11 20 07 AM" src="https://github.com/user-attachments/assets/52f6b18c-408e-4104-a330-47af3f2cad8d" />
-
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-10 at 10 20 06 PM" src="https://github.com/user-attachments/assets/b17770a1-7d1b-430f-a39b-b0a78605c407" />
